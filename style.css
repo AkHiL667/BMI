@@ -59,6 +59,7 @@ button {
   font-size: 1vw;
   font-weight: 600;
   /* text-transform: uppercase; */
+  cursor: pointer;
 }
 
 button:hover {
