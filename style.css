@@ -72,7 +72,7 @@ button:active {
 
 .display {
   height: 10vh;
-  background-color: wheat;
+  /* background-color: wheat; */
   width: 20vw;
   padding: 1vw 1.5vw;
   position: absolute;
